@@ -72,6 +72,19 @@
     ],
     "experience": [
       {
+        "company": "Tesla",
+        "title": "Data Annotation Specialist ",
+        "years": "02.2020 - 06.2022",
+        "mainTech": [
+          "ML + AI"
+        ],
+        "technologies": [
+          "Neural Network",
+          "Machine Learning",
+          "Artifical Intelligence"
+        ]
+      },
+      {
         "company": "Code Fellows",
         "title": "Full Stack Developer ",
         "years": "09.2022 - present",

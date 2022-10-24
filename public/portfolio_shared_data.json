@@ -12,6 +12,16 @@
           "name": "linkedin",
           "url": "https://www.linkedin.com/in/kwanjordan/",
           "class": "fab fa-linkedin"
+        }, 
+        {
+          "name": "twitter",
+          "url": "https://www.twitter.com/nawktopus/",
+          "class": "fab fa-twitter"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/nawktopus/",
+          "class": "fab fa-instagram"
         }
       ],
       "image": "myProfile.jpg"
