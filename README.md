@@ -1,3 +1,4 @@
 # Modify this portfolio
 
-Make it your own! 
+Portfolio to showcase my accomplishments and achievements thus far.
+https://jkwan.netlify.app/
