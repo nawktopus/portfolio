@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { Icon } from "@iconify/react";
 import reactIcon from "@iconify/icons-logos/react";
+import image from '../../src/p3.jpg'
 
 class About extends Component {
   render() {
@@ -14,10 +15,10 @@ class About extends Component {
     }
 
     return (
-      <section id="about">
-        <div className="col-md-12">
-          <h1 style={{ color: "black" }}>
-            <span>{sectionName}</span>
+      <section id="about"style={{ backgroundImage: `url(${image})`, backgroundRepeat:'no-repeat', alignSelf: 'center', height:'800px', width:'2400px' }}>
+        <div className="col-md-12" >
+          <h1 style={{ color: "black"}}>
+            <span style={{color: 'white', fontSize:'35px', font: 'bold'}}>{sectionName}</span>
           </h1>
           <div className="row center mx-auto mb-5">
             <div className="col-md-4 mb-5 center">

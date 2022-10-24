@@ -63,7 +63,7 @@ class Experience extends Component {
     }
 
     return (
-      <section id="resume" className="pb-5">
+      <section id="resume" className="pb-5"style={{backgroundColor: '#b4cde7'}}>
         <div className="col-md-12 mx-auto">
           <div className="col-md-12">
             <h1 className="section-title" style={{ color: "black" }}>
@@ -73,7 +73,7 @@ class Experience extends Component {
             </h1>
           </div>
         </div>
-        <div className="col-md-8 mx-auto">
+        <div className="col-md-8 mx-auto" style={{backgroundColor: '#b4cde7'}} >
           <VerticalTimeline>
             {work}
             <VerticalTimelineElement
