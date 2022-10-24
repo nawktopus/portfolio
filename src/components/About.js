@@ -22,7 +22,7 @@ class About extends Component {
           </h1>
           <div className="row center mx-auto mb-5">
             <div className="col-md-4 mb-5 center">
-              <div className="polaroid">
+              <div className="polaroid">  
                 <span style={{ cursor: "auto" }}>
                   <img
                     src={profilepic}
